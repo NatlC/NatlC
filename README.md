@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 I'm currently a fourth year student at Toronto Metropolitan University (formerly Ryerson University) residing in Toronto, Ontario 🏠. I constantly strive for improvement to contribute to the industry.
 
 🔭 I’m currently working on
-
 Personal Projects
 Portfolio 📖
+
 Looking for Summer 2025 internship opportunities!
 
 📫 Contact me at n12chan@torontomu.ca
