@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently a fourth year student at Toronto Metropolitan University (formerly Ryerson University) residing in Toronto, Ontario 🏠. I constantly strive for improvement to contribute to the industry
+I'm currently a fourth year student at Toronto Metropolitan University (formerly Ryerson University) residing in Toronto, Ontario 🏠. I constantly strive for improvement to contribute to the industry.
 
 🔭 I’m currently working on
 
