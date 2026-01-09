@@ -20,9 +20,9 @@ I'm currently a fourth year student at Toronto Metropolitan University (formerly
 Personal Projects
 Portfolio 📖
 
-Looking for Summer 2025 internship opportunities!
+Looking for Summer 2026 internship opportunities!
 
-📫 Contact me at n12chan@torontomu.ca
+📫 Contact me at n12chan@torontomu.ca/nathancar.go@hotmail.com
 
 ## Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
